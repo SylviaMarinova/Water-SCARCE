@@ -11,13 +11,12 @@
 This repository contains all scripts, data, and workflows for the calculation of the **Water SCARCE characterisation factors (CFs)**.  
 
 The framework integrates four main dimensions:
-
 - **Supply Risk** – physical and socio-economic availability of water  
 - **Vulnerability** – susceptibility of regions to supply risk  
 - **Compliance with Environmental Standards** – biodiversity protection, air quality, and ecosystem health  
 - **Compliance with Social Standards** – human rights performance  
 
-The framework builds on harmonised geospatial indicators and produces **country- and region-level scores on a global scale**.  
+The framework builds on harmonised geospatial indicators and produces country- and region-level scores on a global scale.  
 
 All scripts are written in **Python**, using `GeoPandas`, `NumPy`, and `scikit-learn` for data processing.
 
@@ -50,6 +49,7 @@ All processed and raw input datasets (GeoPackages, CSVs) are archived on **Zenod
 **Folders in this repo:**  
 - `data/` – Processed and raw input datasets  
 - `results/` – CSV outputs 
+
 
 
 
